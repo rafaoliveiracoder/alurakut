@@ -23,7 +23,7 @@ function ProfileSidebar(propriedades) {
 }
 
 export default function Home() {
-  const usuarioAleatorio = 'omariosouto';
+  const usuarioAleatorio = 'rafaoliveiracoder';
   const [comunidades, setComunidades] = React.useState([{
     id: '12802378123789378912789789123896123',
     title: 'Eu odeio acordar cedo',
