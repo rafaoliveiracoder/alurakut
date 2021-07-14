@@ -35,7 +35,7 @@ export default function Home() {
   console.log('Nosso teste', );
   // const comunidades = ['Alurakut'];
   const pessoasFavoritas = [
-    'juunegreiros',
+    'markerikson',
     'omariosouto',
     'peas',
     'rafaballerini',
